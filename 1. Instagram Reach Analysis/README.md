@@ -1,6 +1,6 @@
 # Instagram Reach Analysis
 ### In this notebook we will try to predict the reach of an instagram post.
-### You can find the dataset [here]("https://statso.io/wp-content/uploads/2022/10/archive.zip).
+### You can find the dataset [here](https://statso.io/wp-content/uploads/2022/10/archive.zip).
 
 **Dataset description:**
 
